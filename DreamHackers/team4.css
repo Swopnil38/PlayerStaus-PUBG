@@ -1,0 +1,90 @@
+#tea4{
+position:absolute;
+top : 428px;
+left:94%;
+Font-face:Agency fb;
+Font-size:35px;
+color:black;
+}
+
+
+#t4{
+position:absolute;
+font-size:35px;
+top:463px;
+left:85.4%;
+}
+#te4{
+position:absolute;
+top:196px;
+left:94%;
+Font-face:Agency fb;
+Font-size:23px;
+}
+
+#alive13{
+position: absolute;
+top: 466px;
+width: 8px;
+height: 28px;
+background-color: yellow;
+right: 3%;
+
+}
+#alive14{
+position: absolute;
+top: 466px;
+width: 8px;
+height: 28px;
+background-color: yellow;
+right: 2.3%;
+
+}
+#alive15{
+position: absolute;
+top: 466px;
+right: 1.6%;
+width: 8px;
+height: 28px;
+background-color: yellow;
+}
+#alive16{
+position: absolute;
+top: 466px;
+right: 0.9%;
+width: 8px;
+height: 28px;
+background-color: yellow;
+}
+#dead13{
+position: absolute;
+right: 3%;
+width: 8px;
+height: 28px;
+top: 466px;
+background-color:green;
+}
+#dead14{
+position: absolute;
+right: 2.3%;
+width: 8px;
+height: 28px;
+top: 466px;
+background-color:green;
+}
+#dead15{
+position: absolute;
+right: 1.6%;
+width: 8px;
+height: 28px;
+top: 466px;
+background-color:green;
+}
+#dead16{
+position: absolute;
+right: 0.9%;
+width: 8px;
+height: 28px;
+top: 466px;
+background-color:green;
+}

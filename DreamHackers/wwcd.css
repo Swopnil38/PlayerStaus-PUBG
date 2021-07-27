@@ -1,0 +1,142 @@
+#eliminatedteam{
+    position:absolute;
+    top:43px;
+    left:38.5%;
+}
+#eliminateteam{
+    position:absolute;
+    top:48px;
+    left:39.2%;
+    color:black;
+    Font-face:Arial;
+    Font-size:30px;
+}
+
+#eliminatedteampoint{
+    position:absolute;
+    top:18px;
+    left:50.1%;
+}
+#eliminateteamkill{
+    position:absolute;
+    top:25px;
+    left:51.3%;
+    color:black;
+    Font-face:Arial;
+    Font-size:35px;
+}
+
+#eliminatedteampic{
+    position:absolute;
+    top: 58px;
+    left:31%;
+}
+#eliminatedteams{
+    position:absolute;
+    top:363px;
+    left:41.5%;
+}
+#eliminateteams{
+    position:absolute;
+    top:88px;
+    left:42%;
+    color:black;
+    Font-face:Arial;
+    Font-size:30px;
+}
+
+#eliminatedteampics{
+    position:absolute;
+    top: 418px;
+    left:32%;
+}
+
+#wwcd1{
+    position:absolute;
+    top:825px;
+    left:70.5%;
+}
+#wwcdpoint1{
+    position:absolute;
+    top:795px;
+    left:81%;
+    color:yellow;
+    Font-face:Agency fb;
+    Font-size:30px;
+}
+#wwcd2{
+    position:absolute;
+    top: 865px;
+    left:70.5%;
+}
+#wwcdpoint2{
+    position:absolute;
+    top:835px;
+    left:81%;
+    color:yellow;
+    Font-face:Agency fb;
+    Font-size:30px;
+}
+#wwcd3{
+    position:absolute;
+    top: 905px;
+    left:70.5%;
+}
+#wwcdpoint3{
+    position:absolute;
+    top:875px;
+    left:81%;
+    color:yellow;
+    Font-face:Agency fb;
+    Font-size:30px;
+}
+#wwcd4{
+    position:absolute;
+    top: 945px;
+    left:70.5%;
+}
+#wwcdpoint4{
+    position:absolute;
+    top:915px;
+    left:81%;
+    color:yellow;
+    Font-face:Agency fb;
+    Font-size:30px;
+}
+#wwcd5{
+    position:absolute;
+    top: 985px;
+    left:70.5%;
+}
+#wwcdpoint5{
+    position:absolute;
+    top:957px;
+    left:81%;
+    color:yellow;
+    Font-face:Agency fb;
+    Font-size:30px;
+}
+
+#myVideo {
+    position: absolute;
+    left:568px;
+    width:auto;
+    height:auto;
+}
+
+#Videoo {
+    position: absolute;
+    left:580px;
+    top:350px;
+    width:auto;
+    height:auto;
+}
+
+.video {
+    position: absolute;
+
+
+    width:auto;
+    height:auto;
+
+}
